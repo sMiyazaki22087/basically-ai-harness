@@ -1,6 +1,6 @@
 {
   "name": "basically-ai-harness",
-  "version": "0.1.9",
+  "version": "0.1.10",
   "description": "Build an agent harness from scratch, one branch per step. Code for Tejas Kumar's AI Engineer Europe 2026 talk \"Harnesses in AI: A Deep Dive\".",
   "main": "src/index.ts",
   "scripts": {
